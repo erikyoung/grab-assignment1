@@ -3,6 +3,8 @@ User Stories for Grab
 https://imgur.com/a/ak1mbWi
 The following user stories must be completed:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ak1mbWi"><a href="//imgur.com/ak1mbWi">Grab Demo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 [X] Top navigation bar with dropdown buttons
 [X] Banner with background image, white text, and a green button
 [X] Color or text change when mouse hovers over
