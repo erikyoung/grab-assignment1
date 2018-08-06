@@ -5,6 +5,8 @@ The following user stories must be completed:
 
 [Imgur](https://i.imgur.com/hiVdJEc.gifv)
 
+hiVdJEc - Imgur.gif
+
 [X] Top navigation bar with dropdown buttons
 [X] Banner with background image, white text, and a green button
 [X] Color or text change when mouse hovers over
