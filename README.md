@@ -1,25 +1,46 @@
-User Stories for Grab 
+Project 1 - Name of Your Project Here
+Time spent: X hours spent in total
 
+User Stories
+The following required functionalities are completed:
 
-The following user stories must be completed:
+ Top navigation bar with dropdown buttons
+ Banner with background image, white text, and a green button
+ Color or text change when mouse hovers over
+ At least 3 different body sections with different background images or colors
+ 2 (or 3) card items per row in a body section
+ Footer with social icons that link to the actual social pages
+The following optional features are implemented:
 
-[Imgur](https://i.imgur.com/hiVdJEc.gifv)
+ Add favicon to the page
+ Animation on an element
+ Navigation, contact, sitemap, privacy policy, term of use, etc in footer
+ Bootstrap carousel for banner
+ Banner with background video
+The following additional features are implemented:
 
-hiVdJEc - Imgur.gif
+ List anything else that you can get done to improve the page!
+Video Walkthrough
+Here's a walkthrough of implemented user stories:
 
-[X] Top navigation bar with dropdown buttons
-[X] Banner with background image, white text, and a green button
-[X] Color or text change when mouse hovers over
-[X] At least 3 different body sections with different background images or colors
-[X] 2 (or 3) card items per row in a body section
-[X] Footer with social icons that link to the actual social pages
-Tips
-The landing page does not have to be exactly the same as the original landing page as long as it can satisfy the above user stories. You can be creative and make it better than the original!
-Do list out all the additional things that you have added to your landing page
-Advanced
-The following advanced user stories are optional. You are not required to do these, but you will learn more from doing them:
+Video Walkthrough
 
-[X ] Add favicon to the page
-[X] Animation on an element
-[X ] Navigation, contact, sitemap, privacy policy, term of use, etc in footer
-[X] Banner with background video
+GIF created with LiceCap.
+
+Notes
+Describe any challenges encountered while building the app.
+
+License
+Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
